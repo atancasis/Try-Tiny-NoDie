@@ -1,0 +1,7 @@
+/Try-Tiny-NoDie-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
